@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 60a5652507a28e248be5b22295454ccc
+timeCreated: 1514640015
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - NodeDataFile: {fileID: 11500000, guid: ba8d07b97eb7bb04b8cd377b489e7526, type: 3}
+  - WindowStylesFile: {fileID: 11500000, guid: b70a96ec68547a044bd0557160777c05, type: 3}
+  - NodeEditorConfigFile: {fileID: 11500000, guid: 9e50621e671eace4291833f52d3bda79,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
