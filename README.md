@@ -43,4 +43,10 @@ void Update(Vector2 position, out Color color)
     color = Data.GetColor(_outputNode);
 }
 ```
-    
+
+
+
+### Examples
+[procedural mesh.mp4](https://video.twimg.com/ext_tw_video/949941009131147264/pu/vid/490x360/JCRjIK995U2KD4ct.mp4)<br>
+[tiled fire texture.mp4](https://video.twimg.com/ext_tw_video/950790167761219584/pu/vid/1128x720/jokOlldZewNjATE3.mp4)<br>
+[stardome.mp4](https://video.twimg.com/ext_tw_video/951759340247150592/pu/vid/490x360/AuvcEoNDe_SUroJL.mp4)
