@@ -1,5 +1,8 @@
 # VisualScriptingTool
 Simplifies some procedural stuff, useful for Technical artists.
+* procedural animation
+* procedural generation
+* partial customization of your pipelines
 
 
 ### Easy to add properties in the inspector of the graph
